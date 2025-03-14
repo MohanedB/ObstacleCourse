@@ -20,9 +20,18 @@ protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
 
-public:	
-	// Called every frame
-	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
+public:
+    virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
-		
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Rotation")
+    float Speed = 1.0f;
+
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Rotation")
+    bool bRotateX = false;
+
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Rotation")
+    bool bRotateY = false;
+
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Rotation")
+    bool bRotateZ = true;
 };

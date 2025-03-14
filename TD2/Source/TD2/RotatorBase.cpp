@@ -18,15 +18,25 @@ URotatorBase::URotatorBase()
 void URotatorBase::BeginPlay()
 {
 	Super::BeginPlay();
-
-	
 }
-
-
 // Called every frame
 void URotatorBase::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
-	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
+    Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
+    if (AActor* Owner = GetOwner())
+    {
+        FRotator NewRotation = Owner->GetActorRotation();
+
+        if (bRotateX)
+            NewRotation.Roll += (Speed * DeltaTime);
+
+        if (bRotateY)
+            NewRotation.Pitch += (Speed * DeltaTime);
+
+        if (bRotateZ)
+            NewRotation.Yaw += (Speed * DeltaTime);
+
+        Owner->SetActorRotation(NewRotation);
+    }
 }
-

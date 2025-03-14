@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\RotatorBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\TD2\\RotatorBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\RotatorBase2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\TD2\\RotatorBase2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\RotatorBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\TD2\\RotatorBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{791003C5-173C-3370-B3D6-DAF9DE0FB26F}|Intermediate\\ProjectFiles\\TD2.vcxproj|C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\RotatorBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{791003C5-173C-3370-B3D6-DAF9DE0FB26F}|Intermediate\\ProjectFiles\\TD2.vcxproj|solutionrelative:Source\\TD2\\RotatorBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\RotatorBase2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\TD2\\RotatorBase2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791003C5-173C-3370-B3D6-DAF9DE0FB26F}|Intermediate\\ProjectFiles\\TD2.vcxproj|C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\RotatorBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{791003C5-173C-3370-B3D6-DAF9DE0FB26F}|Intermediate\\ProjectFiles\\TD2.vcxproj|solutionrelative:Source\\TD2\\RotatorBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791003C5-173C-3370-B3D6-DAF9DE0FB26F}|Intermediate\\ProjectFiles\\TD2.vcxproj|C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\MovementBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{791003C5-173C-3370-B3D6-DAF9DE0FB26F}|Intermediate\\ProjectFiles\\TD2.vcxproj|solutionrelative:Source\\TD2\\MovementBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791003C5-173C-3370-B3D6-DAF9DE0FB26F}|Intermediate\\ProjectFiles\\TD2.vcxproj|C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\MovementBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{791003C5-173C-3370-B3D6-DAF9DE0FB26F}|Intermediate\\ProjectFiles\\TD2.vcxproj|solutionrelative:Source\\TD2\\MovementBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +34,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RotatorBase.cpp",
-              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\RotatorBase.cpp",
-              "RelativeDocumentMoniker": "Source\\TD2\\RotatorBase.cpp",
-              "ToolTip": "C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\RotatorBase.cpp",
-              "RelativeToolTip": "Source\\TD2\\RotatorBase.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-14T17:47:51.886Z",
+              "DocumentIndex": 5,
+              "Title": "MovementBase.h",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\MovementBase.h",
+              "RelativeDocumentMoniker": "Source\\TD2\\MovementBase.h",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\MovementBase.h",
+              "RelativeToolTip": "Source\\TD2\\MovementBase.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T18:16:44.963Z",
               "EditorCaption": ""
             },
             {
@@ -41,9 +57,67 @@
               "RelativeDocumentMoniker": "Source\\TD2\\RotatorBase.h",
               "ToolTip": "C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\RotatorBase.h",
               "RelativeToolTip": "Source\\TD2\\RotatorBase.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-14T17:47:51.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RotatorBase2.h",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\RotatorBase2.h",
+              "RelativeDocumentMoniker": "Source\\TD2\\RotatorBase2.h",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\RotatorBase2.h",
+              "RelativeToolTip": "Source\\TD2\\RotatorBase2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T19:09:40.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RotatorBase2.cpp",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\RotatorBase2.cpp",
+              "RelativeDocumentMoniker": "Source\\TD2\\RotatorBase2.cpp",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\RotatorBase2.cpp",
+              "RelativeToolTip": "Source\\TD2\\RotatorBase2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T19:09:40.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovementBase.cpp",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\MovementBase.cpp",
+              "RelativeDocumentMoniker": "Source\\TD2\\MovementBase.cpp",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\MovementBase.cpp",
+              "RelativeToolTip": "Source\\TD2\\MovementBase.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T18:16:45.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RotatorBase.cpp",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\RotatorBase.cpp",
+              "RelativeDocumentMoniker": "Source\\TD2\\RotatorBase.cpp",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive - UQAT\\Documents\\GitHub\\ObstacleCourse\\TD2\\Source\\TD2\\RotatorBase.cpp",
+              "RelativeToolTip": "Source\\TD2\\RotatorBase.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T17:47:51.886Z",
               "EditorCaption": ""
             }
           ]
