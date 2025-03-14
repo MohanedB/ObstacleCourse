@@ -1,32 +1,116 @@
-# Prerequisites
-*.d
+# Ignore user-specific settings
+Saved/
+Intermediate/
+DerivedDataCache/
+DerivedDataBackendGraph/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Ignore compiled binaries and object files
+Binaries/
+Build/
 
-# Precompiled Headers
-*.gch
-*.pch
+# Ignore cache and logs
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+*.log
+*.vsconfig
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
+# Ignore compiled Dynamic Link Libraries (DLLs)
 *.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+*.pdb
 *.exe
-*.out
+
+# Ignore MacOS and Linux system files
+.DS_Store
+*.dylib
 *.app
+*.so
+*.swp
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore Unreal Engine auto-generated config files
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Ignore build artifacts
+*.obj
+*.o
+*.idb
+*.pdb
+*.ipch
+*.aps
+*.ncb
+
+# Ignore Unreal Engine project backups
+Backup/
+Saved/
+Logs/
+
+# Ignore Unreal Engine Plugin binaries
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+
+# Ignore Generated Files
+Config/DefaultEditor.ini
+Config/DefaultEditorPerProjectUserSettings.ini
+Config/DefaultGame.ini
+Config/DefaultEngine.ini
+Config/DefaultInput.ini
+
+# Ignore Engine Source Binaries (if using source build)
+Engine/Binaries/
+Engine/DerivedDataCache/
+Engine/Intermediate/
+Engine/Saved/
+
+# Ignore Build files (CMake, Makefiles, etc.)
+CMakeLists.txt.user
+Makefile
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+
+# Ignore uproject binary files
+*.uproject.sln
+*.uproject.sdf
+*.uproject.vcxproj*
+*.uproject.ide
+
+# Ignore Unreal Engine generated files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+*.log
+*.tlog
+
+# Ignore auto-generated Shader Working Directory
+Shaders/WorkingDirectory/
+
+# Ignore Auto-generated Unreal Engine files
+*.generated.h
+*.generated.cpp
+*.generated.d.ts
+*.gen.cpp
+*.gen.h
+
+# Ignore Unreal Engine Live++ Files
+LiveCoding/
+
+# Ignore Unreal Engine Automation Test Files
+AutomationScripts/
+
+# Ignore files created by Unreal Engine source control
+*.uasset
+*.umap
+*.ufont
+
+# Ignore Unreal Engine Marketplace and external assets
+Marketplace/
